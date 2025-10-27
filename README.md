@@ -11,7 +11,7 @@ Users can **sign up**, **log in**, and **manage their todos** (add, edit, delete
 **Backend:** Node.js + Express.js  
 **Database:** MongoDB (Mongoose)  
 **Authentication:** JWT (JSON Web Token)  
-**Styling:** CSS / Tailwind (optional)  
+**Styling:** CSS   
 
 ---
 
@@ -140,4 +140,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > “A simple yet powerful MERN app to manage your tasks efficiently and securely.”  
+
 
