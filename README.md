@@ -89,7 +89,7 @@ npm start
 ```
 
 Your app will be available at:  
-👉 **Frontend:** http://localhost:3000  
+👉 **Frontend:** http://localhost:5173  
 👉 **Backend API:** http://localhost:5000  
 
 ---
@@ -140,3 +140,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 > “A simple yet powerful MERN app to manage your tasks efficiently and securely.”  
+
